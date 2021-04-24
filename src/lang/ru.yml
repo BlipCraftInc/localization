@@ -91,7 +91,7 @@ STREAMS_STOP: '§cYouTube §8| §fВещание вашей трансляции
 STREAMS_ADD: '§cYouTube §8| §fТрансляция успешно добавлена на сервер! Через §a2§f минуты об этом будут уведомлены все игроки! §c(Если вы слишком часто добавляете стрим, то этого уведомления не будет!)'
 STREAMS_ADD_ERROR: '§cYouTube §8| §cВозникла ошибка при добавлении трансляци... Возможно стрим не запущен...'
 STREAMS_ADD_SYNTAX_ERROR: '§cYouTube §8| §cОшибка, введена некорректная ссылка'
-STREAMS_ADD_LAST_ERROR: '§cYouTube §8| §cОшибка, вы должны запускать стрим только на сервере LastCraft'
+STREAMS_ADD_LAST_ERROR: '§cYouTube §8| §cОшибка, вы должны запускать стрим только на сервере BlipCraft'
 STREAMS_DELETE_TARGET: '§cYouTube §8| §fВы удалили трансляцию игрока %s'
 STREAMS_DELETE_STREAM: '§cYouTube §8| §fСтрим на платформе %s §fудален'
 STREAMS_DELETE_STREAM_BY: '§cYouTube §8| %s §fудалил ваш стрим на платформе %s'
@@ -2097,10 +2097,10 @@ INVALID_ITEM_RECIPE: '§cОшибка, рецепт не найден'
 
 REDIRECT_ERROR: '§cНевозможно найти подходящий сервер('
 TAB_HEADER:
-- '§6§lLastCraft'
+- '§6§lBlipCraft'
 - ''
 - '§fОнлайн-магазин:'
-- '§elast-craft.com'
+- '§eblipcraft.com'
 - ''
 TAB_FOOTER:
 - ''
