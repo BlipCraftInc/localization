@@ -1,2 +1,2 @@
-# localization
+# ПЕРЕВОД!
 перевод для BlipCraft
